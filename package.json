@@ -2,15 +2,17 @@
   "name": "released-log-test",
   "version": "1.0.0",
   "description": "A test for release log",
-  "main": "index.js",
+  "main": "index.ts",
   "type": "module",
   "scripts": {
-    "test": "node index.spec.js"
+    "test": "mocha index.spec.js"
   },
   "keywords": [],
   "author": "iigmir",
   "license": "ISC",
   "devDependencies": {
+    "@types/mocha": "^9.1.1",
+    "mocha": "^10.0.0",
     "typescript": "^4.8.2"
   }
 }

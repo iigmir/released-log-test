@@ -1,4 +1,4 @@
-import { IsOdd, IsEven } from "./index.js";
+import { IsOdd, IsEven } from "./index.ts";
 import { strictEqual } from "assert";
 
 strictEqual( IsOdd( 1 ), true );
