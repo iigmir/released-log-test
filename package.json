@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "iigmir",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
 }
