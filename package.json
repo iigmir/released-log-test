@@ -5,7 +5,8 @@
   "main": "index.ts",
   "type": "module",
   "scripts": {
-    "test": "mocha index.spec.js"
+    "test": "mocha index.spec.js",
+    "build": "npx tsc"
   },
   "keywords": [],
   "author": "iigmir",

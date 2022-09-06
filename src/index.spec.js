@@ -1,4 +1,4 @@
-import { IsOdd, IsEven } from "../index.js";
+import { IsOdd, IsEven } from "../dist/index.js";
 import { strictEqual } from "assert";
 
 describe( "IsOdd", () => {
