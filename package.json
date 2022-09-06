@@ -5,7 +5,7 @@
   "main": "index.ts",
   "type": "module",
   "scripts": {
-    "test": "mocha index.spec.js",
+    "test": "mocha ./src/index.spec.js",
     "build": "npx tsc"
   },
   "keywords": [],
