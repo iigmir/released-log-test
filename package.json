@@ -1,0 +1,13 @@
+{
+  "name": "released-log-test",
+  "version": "1.0.0",
+  "description": "A test for release log",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
